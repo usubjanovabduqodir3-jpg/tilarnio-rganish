@@ -1,0 +1,6 @@
+{
+  "name": "LingoSphere - Ko'p Tilli Til O'rganish Platformasi",
+  "description": "3 ta bepul til (O'zbek, Rus, Ingliz) va 17 ta jahon tili uchun $10-$20 obunali ta'lim platformasi. 1,000+ so'zlar, Web Speech API talaffuz va dark rejim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
